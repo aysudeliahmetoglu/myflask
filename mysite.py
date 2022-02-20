@@ -1,3 +1,3 @@
 from flask import Flask
-app = Flask("qwe")
+app = Flask("asd")
 app.run()
