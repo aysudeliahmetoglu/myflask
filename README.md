@@ -1,9 +1,10 @@
 # FLASK İLE RASTGELE KULLANICI ADI ÜRETME
-**bu proje kapsamında URL kısmından girdiğimiz kullanıcı bilgileri ile rastgele kullanıcı adı oluşturur. **
+**Bu proje kapsamında URL kısmından girdiğimiz kullanıcı bilgileri ile rastgele kullanıcı adı oluşturur.**
 Öncelikle gerekli olan kütüphane aşağıdaki komut ile kurulur.
 ```
 pip install Flask
 ```
+
 
 
 
